@@ -3,4 +3,4 @@ super basic monitor for internet connectivity. will log `true` or `false` to the
 ## install
 1. `nvm install && nvm use`
 2. `npm i`
-3. `npm i`
+3. `npm start`
