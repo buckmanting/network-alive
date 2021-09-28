@@ -1,0 +1,13 @@
+{
+  "name": "network-alive",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "springerBuck",
+  "license": "MIT",
+  "dependencies": {
+    "tcp-ping": "^0.1.1"
+  }
+}
